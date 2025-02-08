@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valentine-react-app/static/css/main.b0806caf.css",
+    "main.js": "/valentine-react-app/static/js/main.fd808b2a.js",
+    "static/js/488.d5440c72.chunk.js": "/valentine-react-app/static/js/488.d5440c72.chunk.js",
+    "index.html": "/valentine-react-app/index.html",
+    "main.b0806caf.css.map": "/valentine-react-app/static/css/main.b0806caf.css.map",
+    "main.fd808b2a.js.map": "/valentine-react-app/static/js/main.fd808b2a.js.map",
+    "488.d5440c72.chunk.js.map": "/valentine-react-app/static/js/488.d5440c72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0806caf.css",
+    "static/js/main.fd808b2a.js"
+  ]
+}
